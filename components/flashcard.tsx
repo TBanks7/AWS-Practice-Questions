@@ -15,6 +15,7 @@ interface Question {
   question: string;
   options: QuestionOption[];
   answer: string;
+  multipleAnswers?: boolean;
 }
 
 interface FlashcardProps {
@@ -24,18 +25,18 @@ interface FlashcardProps {
 const Flashcard: React.FC<FlashcardProps> = ({ questions }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [selectedAnswers, setSelectedAnswers] = useState<string[]>([]);
   const [answeredQuestions, setAnsweredQuestions] = useState<Record<number, boolean>>({});
 
   const currentQuestion = questions[currentIndex];
-  const isAnswered = selectedAnswer !== null;
-  const isCorrect = selectedAnswer === currentQuestion.answer;
+  const isAnswered = currentQuestion.multipleAnswers ? selectedAnswers.length === 2 : selectedAnswers.length > 0;
+  const isCorrect = selectedAnswers.sort().join(',') === currentQuestion.answer.split(', ').sort().join(',');
 
   const handleNext = () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex(currentIndex + 1);
       setIsFlipped(false);
-      setSelectedAnswer(null);
+      setSelectedAnswers([]);
     }
   };
 
@@ -43,22 +44,35 @@ const Flashcard: React.FC<FlashcardProps> = ({ questions }) => {
     if (currentIndex > 0) {
       setCurrentIndex(currentIndex - 1);
       setIsFlipped(false);
-      setSelectedAnswer(null);
+      setSelectedAnswers([]);
     }
   };
 
   const handleOptionSelect = (letter: string) => {
     if (!isAnswered) {
-      setSelectedAnswer(letter);
-      setAnsweredQuestions({
-        ...answeredQuestions,
-        [currentQuestion.id]: letter === currentQuestion.answer
-      });
+      if (currentQuestion.multipleAnswers) {
+        setSelectedAnswers(prev => {
+          const newAnswers = prev.includes(letter) ? prev.filter(ans => ans !== letter) : [...prev, letter];
+          if (newAnswers.length === 2) {
+            setAnsweredQuestions({
+              ...answeredQuestions,
+              [currentQuestion.id]: newAnswers.sort().join(',') === currentQuestion.answer.split(', ').sort().join(',')
+            });
+          }
+          return newAnswers;
+        });
+      } else {
+        setSelectedAnswers([letter]);
+        setAnsweredQuestions({
+          ...answeredQuestions,
+          [currentQuestion.id]: letter === currentQuestion.answer
+        });
+      }
     }
   };
 
   const handleReset = () => {
-    setSelectedAnswer(null);
+    setSelectedAnswers([]);
     setIsFlipped(false);
   };
 
@@ -104,20 +118,21 @@ const Flashcard: React.FC<FlashcardProps> = ({ questions }) => {
                 key={option.letter}
                 className={`w-full p-4 text-left rounded-lg border transition-all
                   ${!isAnswered && 'hover:bg-gray-50'}
-                  ${isAnswered && option.letter === currentQuestion.answer && 'bg-green-100 border-green-500'}
-                  ${isAnswered && option.letter === selectedAnswer && option.letter !== currentQuestion.answer && 'bg-red-100 border-red-500'}
-                  ${isAnswered && option.letter !== selectedAnswer && option.letter !== currentQuestion.answer && 'opacity-50'}
+                  ${selectedAnswers.includes(option.letter) && selectedAnswers.length === 1 && 'bg-gray-100 border-gray-500'}
+                  ${isAnswered && currentQuestion.answer.includes(option.letter) && 'bg-green-100 border-green-500'}
+                  ${isAnswered && selectedAnswers.includes(option.letter) && !currentQuestion.answer.includes(option.letter) && 'bg-red-100 border-red-500'}
+                  ${isAnswered && !selectedAnswers.includes(option.letter) && !currentQuestion.answer.includes(option.letter) && 'opacity-50'}
                 `}
                 onClick={() => handleOptionSelect(option.letter)}
-                disabled={isAnswered}
+                disabled={isAnswered && !currentQuestion.multipleAnswers}
               >
                 <div className="flex items-center">
                   <span className="font-medium mr-2">{option.letter}.</span>
                   <span className="flex-1">{option.text}</span>
-                  {isAnswered && option.letter === currentQuestion.answer && (
+                  {isAnswered && currentQuestion.answer.includes(option.letter) && (
                     <Check className="w-5 h-5 text-green-600 ml-2" />
                   )}
-                  {isAnswered && option.letter === selectedAnswer && option.letter !== currentQuestion.answer && (
+                  {isAnswered && selectedAnswers.includes(option.letter) && !currentQuestion.answer.includes(option.letter) && (
                     <X className="w-5 h-5 text-red-600 ml-2" />
                   )}
                 </div>

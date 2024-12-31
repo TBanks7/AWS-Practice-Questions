@@ -8,6 +8,7 @@ interface Question {
   question: string;
   options: QuestionOption[];
   answer: string;
+  multipleAnswers: boolean;
 }
 
 export function parseQuestionsMarkdown(markdown: string): Question[] {
@@ -30,7 +31,8 @@ export function parseQuestionsMarkdown(markdown: string): Question[] {
       id: index + 1,
       question: questionMatch[1],
       options: [],
-      answer: ''
+      answer: '',
+      multipleAnswers: questionMatch[1].includes('(Choose TWO)')
     };
     
     // Parse the rest of the block
@@ -49,7 +51,7 @@ export function parseQuestionsMarkdown(markdown: string): Question[] {
       if (lines[i].includes('<details')) {
         // Look for the answer in the next few lines
         while (i < lines.length) {
-          const answerMatch = lines[i].match(/Correct answer:\s*([A-D])/);
+            const answerMatch = lines[i].match(/Correct answer:\s*([A-E](?:,\s*[A-E])*)/);
           if (answerMatch) {
             question.answer = answerMatch[1];
             break;
