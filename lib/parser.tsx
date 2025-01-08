@@ -51,7 +51,7 @@ export function parseQuestionsMarkdown(markdown: string): Question[] {
       if (lines[i].includes('<details')) {
         // Look for the answer in the next few lines
         while (i < lines.length) {
-            const answerMatch = lines[i].match(/Correct answer:\s*([A-E](?:,\s*[A-E])*)/);
+          const answerMatch = lines[i].match(/Correct Answer:\s*([A-E](?:,\s*[A-E])*)/i);
           if (answerMatch) {
             question.answer = answerMatch[1];
             break;
