@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Flashcard from '@/components/flashcard';
 import { parseQuestionsMarkdown } from '@/lib/parser';
 
-interface QuizPageProps {
+type QuizPageProps = {
   params: {
     id: string;
   };
