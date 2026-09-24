@@ -5,8 +5,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'AWS Certification Flashcards',
-  description: 'Study for your AWS Cloud Practitioner exam with interactive flashcards',
+  title: 'Exam Prep Flashcards',
+  description: 'Study for certification exams with interactive flashcards',
 };
 
 export default function RootLayout({

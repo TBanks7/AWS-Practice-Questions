@@ -11,6 +11,11 @@ interface Question {
   multipleAnswers: boolean;
 }
 
+export function getQuizTitle(markdown: string): string | null {
+  const match = markdown.match(/^#\s*(.+)/m);
+  return match ? match[1].trim() : null;
+}
+
 export function parseQuestionsMarkdown(markdown: string): Question[] {
   // Remove frontmatter and initial description
   const content = markdown.replace(/^---\n[\s\S]*?\n---\n/, '')

@@ -4,23 +4,17 @@ import { notFound } from 'next/navigation';
 import Flashcard from '@/components/flashcard';
 import { parseQuestionsMarkdown } from '@/lib/parser';
 
-type QuizPageProps = Promise<{ id: string }>
+type QuizPageProps = Promise<{ subjectId: string; id: string }>;
 
-// interface QuizPageProps {
-//   params: {
-//     id: string;
-//   };
-// }
+export default async function QuizPage(props: { params: QuizPageProps }) {
+  const { subjectId, id } = await props.params;
 
-export default async function QuizPage( props: { params: QuizPageProps}) {
-  const params = await props.params;
-  // const id = params.id;
   try {
     const markdown = await fs.readFile(
-      path.join(process.cwd(), 'public/questions', `practice-exam-${params.id}.md`),
+      path.join(process.cwd(), 'public/questions', subjectId, `${id}.md`),
       'utf-8'
     );
-    
+
     const questions = parseQuestionsMarkdown(markdown);
 
     return (
