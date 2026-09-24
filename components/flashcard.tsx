@@ -16,6 +16,7 @@ interface Question {
   options: QuestionOption[];
   answer: string;
   multipleAnswers?: boolean;
+  explanation?: string;
 }
 
 interface FlashcardProps {
@@ -146,6 +147,9 @@ const Flashcard: React.FC<FlashcardProps> = ({ questions }) => {
                 <p className={`font-medium ${isCorrect ? 'text-green-800' : 'text-red-800'}`}>
                   {isCorrect ? 'Correct!' : 'Incorrect!'} The answer is {currentQuestion.answer}.
                 </p>
+                {currentQuestion.explanation && (
+                  <p className="mt-2 text-sm text-gray-800">{currentQuestion.explanation}</p>
+                )}
               </div>
             </div>
           )}

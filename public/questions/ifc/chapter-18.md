@@ -5,117 +5,128 @@ Original practice questions grounded in the CSI Investment Funds in Canada (IFC)
 ---
 
 1. Ethics is best defined as:
-    - A. A legal document filed with the securities administrator.
-    - B. A set of rules with no room for personal judgment.
-    - C. Only relevant to representatives who work with elderly clients.
-    - D. A set of moral values and standards that guide individual behaviour.
+    - A. A set of written rules enforced by regulators.
+    - B. A legal document filed with the regulator.
+    - C. A standard that applies only to senior staff.
+    - D. A set of moral values that guide behaviour.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Ethics is a set of moral values — enduring beliefs about right and wrong — that guide behaviour. Written rules are compliance; ethics goes beyond them.
     </details>
 
-2. Ethical decision-making, as described in the textbook, is based on which set of principles?
+2. Ethical decision-making, as described in the textbook, is based on principles such as:
     - A. Profitability, efficiency, and speed.
-    - B. Trust, integrity, justice, fairness, honesty, responsibility, and reliability.
-    - C. Compliance, disclosure, and registration only.
-    - D. Sales volume, client retention, and referrals.
+    - B. Trust, integrity, fairness, honesty, and reliability.
+    - C. Compliance, disclosure, and registration.
+    - D. Sales volume, retention, and referrals.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: The textbook lists trust, integrity, justice, fairness, honesty, responsibility, and reliability. The securities industry depends on public trust built on these principles.
     </details>
 
-3. A representative follows every applicable rule to the letter but does so purely because failing to comply would result in punishment, not because they believe it is the right thing to do. According to the textbook, this represents:
-    - A. Compliance without necessarily reflecting genuine ethical behaviour, since compliance requires no judgment while ethics does.
-    - B. The highest possible standard of ethical conduct.
-    - C. A violation of MFDA Rule 2.1.1.
-    - D. Behaviour that is impossible under securities regulation.
+3. A representative follows every rule, but only to avoid being punished, not because they believe it's right. According to the textbook, this is:
+    - A. Compliance, which may not reflect genuine ethics.
+    - B. The highest standard of ethical conduct.
+    - C. A breach of MFDA Rule 2.1.1.
+    - D. Conduct prohibited by securities law.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Following rules takes no judgment and simply conforms to external standards. Ethical behaviour requires judgment based on internal values and applies even where no rule exists.
     </details>
 
-4. Which of the following correctly lists the four steps involved in a system of ethical decision-making?
-    - A. Register, disclose, comply, report.
-    - B. Diversify, hedge, rebalance, review.
-    - C. Recognize that a moral dilemma exists, assess options against moral criteria, commit to a morally appropriate strategy, and have the courage to carry it out.
-    - D. Open the account, complete the NAAF, process the order, confirm the trade.
+4. Which of the following lists the four steps in a system of ethical decision-making?
+    - A. Identify the rule, check policy, document, and report.
+    - B. Consult compliance, escalate, document, and close.
+    - C. Recognize the dilemma, assess options, commit, and act.
+    - D. Gather facts, poll colleagues, vote, and implement.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: The steps are: recognize that a moral dilemma exists, assess your options against moral criteria, commit to a morally appropriate strategy, and have the courage to carry it out.
     </details>
 
-5. MFDA Rule 2.1.1, the Standard of Conduct, requires that each Member and Approved Person:
-    - A. Guarantee a minimum rate of return to every client.
-    - B. Avoid ever discussing fees with clients.
-    - C. Only serve clients who exceed a minimum net worth threshold.
-    - D. Deal fairly, honestly, and in good faith with clients, and observe high standards of ethics and conduct.
+5. MFDA Rule 2.1.1, the Standard of Conduct, requires each Member and Approved Person to:
+    - A. Guarantee a minimum return to clients.
+    - B. Avoid discussing fees with clients.
+    - C. Serve only clients above a net worth threshold.
+    - D. Deal fairly, honestly, and in good faith with clients.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Rule 2.1.1 requires dealing fairly, honestly, and in good faith with clients, observing high standards of ethics and conduct, avoiding conduct detrimental to the public interest, and having suitable character and training.
     </details>
 
 6. According to the textbook, the five primary values registered individuals must observe are Duty of Care, Integrity, Professionalism, Compliance, and:
     - A. Profitability.
     - B. Confidentiality.
-    - C. Aggressiveness.
-    - D. Popularity.
+    - C. Transparency.
+    - D. Loyalty.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Confidentiality is the fifth value. It covers protecting client information and never using it for personal or other clients' trades.
     </details>
 
-7. The three major components of Duty of Care described in the textbook are Know Your Client, Due Diligence, and:
+7. The three major components of Duty of Care are Know Your Client, Due Diligence, and:
     - A. Unsolicited Orders.
     - B. Confidentiality.
     - C. Compliance with SRO Rules.
-    - D. Personal Financial Dealings with Clients.
+    - D. Disclosure.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Duty of care covers knowing the client, doing due diligence on recommendations and products, and giving cautionary advice on unsuitable unsolicited orders. Disclosure falls under Integrity.
     </details>
 
-8. Under the value of Integrity, when a representative has a personal interest that competes with a client's interest, the textbook states that:
-    - A. The representative's interest should always take priority.
-    - B. Both interests should be treated as equally important.
+8. Under the value of Integrity, when a representative has an interest that competes with a client's interest:
+    - A. The representative's interest prevails.
+    - B. Both interests are treated as equal.
     - C. The client's interest must be given priority.
-    - D. The dealer's interest should be given priority over both.
+    - D. The dealer's interest prevails.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Priority of the client's interest is central to Integrity. Where interests compete, the client comes first.
     </details>
 
 9. Under the value of Integrity, a client's assets:
-    - A. May be temporarily used by the representative if repaid promptly.
-    - B. Become the property of the dealer once deposited.
-    - C. May be shared between multiple clients' accounts for efficiency.
-    - D. Are solely the client's property and may only be used for the client's own purposes.
+    - A. May be borrowed briefly if promptly repaid.
+    - B. Belong to the dealer once deposited.
+    - C. May be pooled across clients for efficiency.
+    - D. May be used only for the client's own purposes.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Client assets belong solely to the client and can be used only for the client's purposes. The representative can't use client funds or securities in any way, even temporarily.
     </details>
 
-10. Under the value of Professionalism, representatives should generally avoid which of the following personal financial dealings with clients?
-    - A. Explaining a fund's risk characteristics.
-    - B. Lending money to or borrowing money from clients.
-    - C. Reviewing a client's KYC information.
-    - D. Providing a copy of the Fund Facts document.
+10. Under the value of Professionalism, representatives should avoid which personal financial dealing with clients?
+    - A. Explaining a fund's risks.
+    - B. Lending money to or borrowing from clients.
+    - C. Reviewing a client's KYC.
+    - D. Delivering the Fund Facts document.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Lending to or borrowing from clients, covering their losses personally, or sharing a financial interest in their accounts creates real or apparent conflicts of interest.
     </details>
 
-11. Which TWO of the following reflect a representative's confidentiality obligations under the five primary values? (Choose TWO)
-    - A. Client information must not be disclosed except with the client's permission, for supervisory purposes, or by order of proper authority.
-    - B. Confidential client information may be freely discussed with the representative's spouse over dinner.
-    - C. Confidential information about a client's trading activity may not be used to effect trades in the representative's own account.
-    - D. Client lists may be left visible in a public area of the office.
-    - E. Confidentiality obligations only apply to a client's financial circumstances, not their personal circumstances.
+11. Which TWO statements reflect a representative's confidentiality obligations? (Choose TWO)
+    - A. Client information may be disclosed only with permission, for supervision, or by proper authority.
+    - B. Client details may be discussed with family in general terms.
+    - C. Client trading information may not be used for the representative's own trades.
+    - D. Client lists may be left out as long as the office is staffed.
+    - E. Confidentiality covers financial, but not personal, circumstances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, C
+      Explanation: Client information can be disclosed only with the client's permission, for supervisory purposes, or by order of proper authority, and it can never be used to trade in personal or other accounts. It covers both personal and financial circumstances.
     </details>
 
-12. In the case study, Sonia discusses details of client Karl's divorce and financial situation with her husband over dinner, and Karl's name is overheard by an acquaintance of his wife at a nearby table. This scenario illustrates a breach of which primary value?
+12. In the case study, Sonia discusses client Karl's divorce and finances with her husband over dinner, and an acquaintance of Karl's wife overhears. This illustrates a breach of which primary value?
     - A. Duty of Care.
     - B. Professionalism.
     - C. Integrity.
@@ -123,184 +134,203 @@ Original practice questions grounded in the CSI Investment Funds in Canada (IFC)
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Discussing identifiable client details outside the dealer — even with a trusted spouse — breaches confidentiality, whatever the intent.
     </details>
 
 13. As a direct consequence of the confidentiality breach in the Sonia and Karl case study, Karl:
-    - A. Requested an increase in his risk tolerance.
-    - B. Terminated his relationship with Sonia and her firm and filed a complaint.
-    - C. Asked Sonia to update his KYC information.
-    - D. Recommended Sonia to his friends.
+    - A. Asked to increase his risk tolerance.
+    - B. Ended the relationship and filed a complaint.
+    - C. Asked Sonia to update his KYC.
+    - D. Referred friends to Sonia.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Karl lost trust in Sonia's discretion, ended his relationship with her and her firm, and complained to her employer, which shows how quickly a breach destroys trust.
     </details>
 
-14. The case study involving representative Jo-Ann Carter and client Ena Beyer illustrates that a trust relationship with a client depends on two essential elements: integrity and:
+14. The Jo-Ann Carter and Ena Beyer case illustrates that a client's trust depends on two essential elements: integrity and:
     - A. Competence.
-    - B. Aggressiveness.
-    - C. Popularity.
-    - D. Speed of execution.
+    - B. Charisma.
+    - C. Availability.
+    - D. Speed.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Competence without integrity leaves clients at the mercy of a self-serving professional. Integrity without competence leaves them with a well-meaning but inept one. Both are needed.
     </details>
 
-15. In the Ena Beyer case study, when the client's son proposed an overly aggressive investment strategy inconsistent with Ena's profile, representative Carter:
-    - A. Immediately implemented the son's recommendations to keep the account.
-    - B. Refused to ever meet with the son.
-    - C. Declined to simply go along with the request and arranged a meeting with the client and her son to explain her concerns and reasoning.
-    - D. Reported the son to the securities administrator.
+15. In the Ena Beyer case, when the client's son proposed an overly aggressive strategy inconsistent with her profile, Carter:
+    - A. Implemented the son's recommendations to keep the account.
+    - B. Declined to meet with the son.
+    - C. Arranged a meeting with Ena and her son to explain her concerns.
+    - D. Reported the son to the securities regulator.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Rather than taking the easy route and risking an unsuitable portfolio, Carter took the chance of losing the account and met with both of them to explain her reasoning.
     </details>
 
-16. In the Roger Black case study, although Roger's age might suggest he has entered Stage 2 (family commitment years) of the life-cycle hypothesis, the analysis concludes that Roger is more likely still in:
-    - A. Stage 5 (retired).
-    - B. Stage 4 (nearing retirement).
-    - C. Stage 3 (mature earning years).
-    - D. Stage 1 (early earning years), since he is single and only planning to marry in the near future.
+16. In the Roger Black case, although his age might suggest Stage 2 of the life-cycle hypothesis, the analysis concludes Roger is more likely still in:
+    - A. Stage 5.
+    - B. Stage 4.
+    - C. Stage 3.
+    - D. Stage 1.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Roger is 34, single, and only planning to marry, which puts him at the end of Stage 1 (early earning years) or just entering Stage 2.
     </details>
 
-17. The Roger Black case study cautions that a Stage-1 investor's stated "long-term" RRSP investment horizon may actually be:
+17. The Roger Black case cautions that a Stage 1 investor's stated "long-term" RRSP horizon may actually be:
     - A. Guaranteed to remain unchanged for decades.
-    - B. Much shorter than it appears, if the client's near-term family plans (such as a home down payment) require accessing the funds.
-    - C. Completely irrelevant to constructing a suitable portfolio.
+    - B. Shorter than it appears if near-term plans need the funds.
+    - C. Irrelevant to building a suitable portfolio.
     - D. Automatically extended once the client marries.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Stage 1 investors often contribute for the tax deduction. Marriage and a house down payment could lead Roger to use RRSP funds much sooner than retirement.
     </details>
 
-18. In the Roger Black case study, the analysis calculates Roger's approximate net worth, considering his financial and other assets, at:
-    - A. Approximately $260,000.
-    - B. Approximately $12,000.
-    - C. Approximately $600 per month.
-    - D. Approximately $40,000.
+18. In the Roger Black case, the analysis estimates Roger's net worth at approximately:
+    - A. $260,000.
+    - B. $215,000.
+    - C. $160,000.
+    - D. $40,000.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Roger's net worth is about $260,000, of which $215,000 is financial assets. His RRSP portfolio alone is $160,000 and his non-registered portfolio $40,000.
     </details>
 
-19. The Roger Black case study raises a concern that investing his entire $12,000 RRSP contribution into a Canadian growth fund would:
-    - A. Have no effect on his existing portfolio's composition.
-    - B. Automatically make his portfolio more conservative.
-    - C. Raise the small-cap equity component of his overall portfolio to about one-fifth (20%), given his existing high equity weighting.
-    - D. Violate NI 81-102's derivatives limit.
+19. The Roger Black case raises a concern that investing his entire $12,000 RRSP contribution in a Canadian growth fund would:
+    - A. Have no effect on his portfolio's mix.
+    - B. Make his portfolio more conservative.
+    - C. Raise his small-cap exposure to about 20%.
+    - D. Breach NI 81-102's derivatives limit.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Roger already has about 74% in equities. Adding a small- and mid-cap growth fund would push small caps to about one-fifth of the portfolio — too much for a moderate-risk investor.
     </details>
 
-20. In the Janet Chen case study, Janet's main investment objective following her lottery windfall was to:
-    - A. Take on maximum risk for maximum growth.
-    - B. Invest entirely in specialty sector funds.
-    - C. Immediately retire from her job.
-    - D. Pay off part of her mortgage and invest the remainder for the long term, given her retirement concerns.
+20. In the Janet Chen case, Janet's main objective for her lottery winnings was to:
+    - A. Maximize growth by taking on more risk.
+    - B. Fund her children's education in full.
+    - C. Leave her job and retire early.
+    - D. Pay off her mortgage and save for retirement.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Janet wanted to pay off the remaining mortgage and invest the rest for the long term, since she has no workplace pension. Funding the children's education was her mother-in-law's idea, not hers.
     </details>
 
-21. In the Janet Chen case study, Janet's investor questionnaire results showed a higher risk tolerance than expected, but a lower risk capacity. Applying the principle that the overall risk profile should reflect the lower of the two measures, Janet was classified as:
-    - A. An aggressive investor.
-    - B. A conservative investor.
-    - C. A speculative investor.
-    - D. Unable to be classified at all.
+21. Janet's investor questionnaire showed a higher risk tolerance than expected but a lower risk capacity. Applying the "lower of the two" principle, Janet was classified as:
+    - A. Aggressive.
+    - B. Conservative.
+    - C. Moderate.
+    - D. Balanced.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Her risk capacity was lower than her risk tolerance, and the risk profile follows the lower measure, so she was classified as a conservative investor.
     </details>
 
-22. Which TWO of the following factors, drawn from the Janet Chen case study, supported recommending a more liquid, conservative asset allocation for her? (Choose TWO)
-    - A. The family relies on a single, primary income source, since her husband's employment has been unstable.
-    - B. Janet has extensive prior investment experience with equities.
-    - C. Janet's investment time horizon is very short, under one year.
-    - D. Janet's investment knowledge is low and there is uncertainty about her true risk tolerance.
+22. Which TWO factors from the Janet Chen case supported a more liquid, conservative allocation? (Choose TWO)
+    - A. The family relies mainly on one income.
+    - B. Janet has extensive equity investing experience.
+    - C. Janet's time horizon is under one year.
+    - D. Janet's knowledge is low and her true risk tolerance is uncertain.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
+      Explanation: With her husband's employment unstable, Janet's salary is the main income, so liquidity matters. Her low knowledge and uncertain risk tolerance also called for caution. Her horizon was actually long term.
     </details>
 
-23. The suggested asset allocation for Janet Chen's remaining windfall, after paying off her mortgage, weighted the portfolio most heavily toward:
-    - A. Aggressive small-cap equity funds.
-    - B. Speculative derivatives.
-    - C. Fixed income and cash/near-cash investments, given her need for liquidity.
-    - D. A single concentrated specialty fund.
+23. The suggested allocation for Janet's remaining windfall, after paying off her mortgage, was weighted most heavily toward:
+    - A. Small-cap equity funds.
+    - B. Derivatives.
+    - C. Fixed income and cash.
+    - D. A single specialty fund.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: The suggested mix was about 39% cash or near-cash, 49% fixed income, and 12% equity, with the bond fund held inside her RRSP to shelter its interest income.
     </details>
 
-24. The Janet Chen case study concludes that she would be an excellent candidate for:
-    - A. A hedge fund limited to accredited investors.
-    - B. An asset allocation service that builds an optimized portfolio from questionnaire responses and periodically rebalances it.
-    - C. A discretionary trading arrangement under a general power of attorney.
-    - D. A specialty fund concentrated in a single sector.
+24. The Janet Chen case concludes that she would be an excellent candidate for:
+    - A. A hedge fund for accredited investors.
+    - B. An asset allocation service with rebalancing.
+    - C. A discretionary trading arrangement.
+    - D. A concentrated specialty fund.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Janet has trouble making decisions and limited knowledge, so a service that builds a portfolio from her questionnaire and rebalances it periodically suits her.
     </details>
 
-25. Under the value of Professionalism, all trades and acts in furtherance of a trade, whether with existing or potential clients, must be carried out only by:
-    - A. Individuals who are registered and approved in accordance with applicable legislation and SRO rules.
-    - B. Any employee of the dealer, regardless of registration status.
+25. Under the value of Professionalism, all trades and acts in furtherance of a trade must be carried out only by:
+    - A. Registered and approved individuals.
+    - B. Any employee of the dealer.
     - C. The client's family members.
-    - D. The branch's receptionist.
+    - D. Branch administrative staff.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Only individuals registered and approved under securities law and SRO rules may carry out trades or acts in furtherance of trades — as Rania learned in the Chapter 17 case study.
     </details>
 
 26. Under the value of Professionalism, every client order must be entered only at the client's direction, unless:
-    - A. The representative believes it is in the client's best interest to act without instruction.
+    - A. The representative believes it's in the client's interest.
     - B. The client is a long-standing customer.
-    - C. The order amount is below a certain threshold.
-    - D. The account has been properly constituted as a discretionary or managed account under applicable regulatory requirements.
+    - C. The order is below a set dollar amount.
+    - D. The account is a properly set-up discretionary account.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Orders must come from the client unless the account has been properly set up as a discretionary or managed account under the regulatory requirements. Good intentions aren't an exception.
     </details>
 
-27. Under the value of Compliance, a representative who becomes aware that a colleague is violating a securities law or SRO rule should recognize that they:
-    - A. Have no obligation regarding the colleague's conduct.
-    - B. May participate in the violation as long as they are not the primary actor.
-    - C. Cannot knowingly participate in or assist any act that violates applicable law, rules, or regulations.
-    - D. Should only report the violation if asked to do so by the client.
+27. Under the value of Compliance, a representative who learns a colleague is breaking a securities rule should recognize that they:
+    - A. Have no obligation regarding it.
+    - B. May assist if not the primary actor.
+    - C. May not knowingly participate or assist.
+    - D. Should act only if a client asks.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Representatives can't knowingly take part in or assist any violation of laws, rules, or regulations governing their business, even in a secondary role.
     </details>
 
-28. According to the textbook, the five primary values (Duty of Care, Integrity, Professionalism, Compliance, and Confidentiality) exist collectively to:
-    - A. Replace the need for any securities regulation.
-    - B. Distill industry rules and standards into practical guidance that builds and maintains public trust and confidence in the securities industry.
-    - C. Guarantee a minimum investment return for every client.
-    - D. Apply only to representatives who work with institutional clients.
+28. According to the textbook, the five primary values collectively exist to:
+    - A. Replace the need for securities regulation.
+    - B. Build and maintain public trust in the industry.
+    - C. Guarantee a minimum return for every client.
+    - D. Apply only to institutional client relationships.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: The industry has no formal code of ethics, so the textbook distills its rules into five values. Following them builds the public trust and confidence the industry depends on.
     </details>
 
-29. In the Ena Beyer case study, after several meetings between Carter, Ena, and her son, the outcome was that:
-    - A. The son became convinced of Carter's recommendations, and the asset mix was revamped to a more prudent allocation.
-    - B. Ena immediately terminated the relationship with Carter.
-    - C. Carter abandoned her original concerns and implemented the son's original strategy.
-    - D. The account was transferred to a different dealer.
+29. In the Ena Beyer case, after several meetings between Carter, Ena, and her son, the outcome was that:
+    - A. The son was convinced, and the mix became more prudent.
+    - B. Ena ended the relationship with Carter.
+    - C. Carter adopted the son's original strategy.
+    - D. The account moved to another dealer.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Carter's patience and transparency won the son over. The asset mix was revamped to a prudent allocation, and the three now meet regularly with strong mutual trust.
     </details>
 
-30. The Roger Black case study notes that, since Roger currently saves monthly but only makes his RRSP contribution once a year at year-end, he could benefit by instead investing on a monthly basis, which would provide him the benefit of:
+30. The Roger Black case notes that Roger saves monthly but contributes to his RRSP once at year-end. Investing monthly instead would give him the benefit of:
     - A. A higher guaranteed rate of return.
-    - B. Elimination of all currency risk.
-    - C. A permanent increase in his risk tolerance.
-    - D. Dollar cost averaging, while also avoiding extra tax on interest otherwise earned by holding funds in a term deposit until year-end.
+    - B. Elimination of currency risk.
+    - C. A permanent increase in risk tolerance.
+    - D. Dollar cost averaging and less tax on interest.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Monthly contributions would give Roger dollar cost averaging and avoid the tax on interest earned while the money sits in a term deposit waiting for the year-end contribution.
     </details>

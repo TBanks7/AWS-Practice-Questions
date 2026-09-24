@@ -9,6 +9,7 @@ interface Question {
   options: QuestionOption[];
   answer: string;
   multipleAnswers: boolean;
+  explanation?: string;
 }
 
 export function getQuizTitle(markdown: string): string | null {
@@ -54,13 +55,11 @@ export function parseQuestionsMarkdown(markdown: string): Question[] {
       
       // Parse answer from details tag
       if (lines[i].includes('<details')) {
-        // Look for the answer in the next few lines
-        while (i < lines.length) {
+        while (i < lines.length && !lines[i].includes('</details>')) {
           const answerMatch = lines[i].match(/Correct Answer:\s*([A-E](?:,\s*[A-E])*)/i);
-          if (answerMatch) {
-            question.answer = answerMatch[1];
-            break;
-          }
+          if (answerMatch) question.answer = answerMatch[1];
+          const explanationMatch = lines[i].match(/^Explanation:\s*(.+)/i);
+          if (explanationMatch) question.explanation = explanationMatch[1];
           i++;
         }
       }

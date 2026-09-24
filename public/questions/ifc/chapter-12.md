@@ -4,177 +4,195 @@ Original practice questions grounded in the CSI Investment Funds in Canada (IFC)
 
 ---
 
-1. Among the three basic mutual fund types — money market, fixed-income, and equity funds — equity mutual funds are generally considered:
-    - A. The riskiest of the three, suitable primarily for clients with longer time horizons.
-    - B. The safest of the three, suitable for emergency reserves.
-    - C. Identical in risk to money market funds.
-    - D. Exempt from any market risk.
+1. Among money market, fixed-income, and equity funds, equity funds are generally considered:
+    - A. The riskiest, suited to longer time horizons.
+    - B. The safest, suited to emergency reserves.
+    - C. Similar in risk to money market funds.
+    - D. Less risky than fixed-income funds.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Equity funds are the most volatile of the three basic types, so they generally suit clients with longer time horizons who can ride out market swings.
     </details>
 
 2. A "standard" equity fund, as described in the textbook, seeks to earn:
-    - A. Interest income exclusively.
-    - B. Guaranteed capital preservation with no growth component.
-    - C. Only capital gains, with an explicit avoidance of any dividend income.
-    - D. Some combination of dividend income and capital gains from Canadian common stocks, with a stronger capital gains focus than a preferred dividend fund.
+    - A. Interest income only.
+    - B. Capital preservation with no growth.
+    - C. Capital gains while avoiding dividends.
+    - D. Dividends and capital gains from Canadian stocks.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: A standard equity fund aims for a combination of dividend income and capital gains from Canadian common shares, leaning more toward capital gains than a dividend fund does.
     </details>
 
 3. An equity growth fund typically seeks out smaller firms that:
-    - A. Have strong, stable dividend records and large market capitalizations.
-    - B. Retain most of their earnings to fund growth rather than paying dividends.
-    - C. Are exclusively government-owned enterprises.
-    - D. Guarantee a fixed annual return.
+    - A. Are large and mature, with high dividends.
+    - B. Reinvest most of their earnings.
+    - C. Are owned by governments.
+    - D. Trade below their book value.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Growth firms keep most of their earnings to fund expansion instead of paying dividends. Firms trading below book value are what value investors look for.
     </details>
 
-4. An aggressive equity growth fund that invests exclusively in smaller, lesser-known firms with a relatively low market value of equity is often called a:
+4. An aggressive growth fund that invests only in smaller, lesser-known firms with a low market value of equity is often called a:
     - A. Preferred dividend fund.
-    - B. Balanced fund.
+    - B. Value fund.
     - C. Small cap fund.
-    - D. Money market fund.
+    - D. Index fund.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Small cap funds invest in companies with a small market capitalization. They offer higher growth potential along with higher risk and lower liquidity.
     </details>
 
 5. An equity index fund seeks to:
-    - A. Replicate the movements of a market index, such as the S&P/TSX Composite Index, by holding a portfolio with similar weightings to that index.
-    - B. Beat the index through active security selection.
-    - C. Avoid holding any securities from the underlying index.
-    - D. Guarantee a return above the index every year.
+    - A. Replicate a market index's performance.
+    - B. Beat the index through security selection.
+    - C. Avoid the securities in the index.
+    - D. Guarantee returns above the index.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: An index fund holds the index's securities in roughly the same weights, so it tracks the index rather than trying to beat it.
     </details>
 
-6. Equity index funds tend to appeal to clients who believe strongly in market efficiency because these funds:
-    - A. Charge higher management fees than actively managed funds.
-    - B. Require extensive individual stock research by the manager.
-    - C. Guarantee outperformance versus actively managed funds.
-    - D. Are easier and less costly to construct and manage, offering a lower-cost way to pursue a passive strategy.
+6. Equity index funds tend to appeal to clients who believe strongly in market efficiency because they:
+    - A. Charge higher fees than active funds.
+    - B. Require extensive stock research.
+    - C. Guarantee outperformance.
+    - D. Are simpler and cheaper to run.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: If markets are efficient, trying to beat them isn't worth the extra cost. Index funds offer a simple, lower-cost passive alternative.
     </details>
 
-7. Under National Instrument 81-102, a conventional equity mutual fund's speculative derivative positions may have an underlying value of no more than what percentage of the fund's portfolio?
+7. Under NI 81-102, a conventional equity fund's speculative derivative positions may have an underlying value of no more than what percentage of the portfolio?
     - A. 50%.
     - B. 10%.
-    - C. 100%.
-    - D. There is no limit for speculative positions.
+    - C. 25%.
+    - D. 20%.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Speculative (non-hedging) derivative positions are capped at 10% of the fund. Derivatives used for hedging aren't limited in the same way.
     </details>
 
-8. A fund manager buys a futures contract on a stock index specifically to protect the portfolio's value against an anticipated market decline. This is an example of:
+8. A fund manager buys a stock index futures contract specifically to protect the portfolio against an expected market decline. This is an example of:
     - A. Speculating.
-    - B. Insider trading.
-    - C. Hedging, using derivatives as a form of insurance for the portfolio.
-    - D. A prohibited selling practice.
+    - B. Arbitrage.
+    - C. Hedging.
+    - D. Leveraging.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Using derivatives to offset potential losses on existing holdings is hedging — a kind of insurance for the portfolio. Speculating means taking positions to profit from price moves.
     </details>
 
-9. Responsible investment (RI) incorporates which three categories of factors into the selection and management of investments?
-    - A. Environmental, social, and governance (ESG) factors.
-    - B. Only environmental factors, excluding social or governance issues.
-    - C. Political, religious, and cultural factors.
-    - D. Only factors related to executive compensation.
+9. Responsible investment (RI) incorporates which three categories of factors into investment decisions?
+    - A. Environmental, social, and governance.
+    - B. Economic, strategic, and geographic.
+    - C. Ethical, sustainable, and green.
+    - D. Earnings, sales, and growth.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Responsible investment adds environmental, social, and governance (ESG) factors to the usual financial analysis.
     </details>
 
-10. A balanced mutual fund is best described as a:
-    - A. Pure equity fund with no fixed-income component.
-    - B. Pure fixed-income fund with no equity component.
-    - C. Fund investing exclusively in derivatives.
-    - D. Hybrid product holding both fixed-income securities and equities, aiming for some combination of income, capital gains, and capital preservation.
+10. A balanced mutual fund is best described as a fund that holds:
+    - A. Equities only.
+    - B. Fixed-income securities only.
+    - C. Derivatives only.
+    - D. A mix of fixed income and equities.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Balanced funds combine bonds, stocks, and often money market securities, aiming for a mix of income, growth, and capital preservation.
     </details>
 
-11. Which TWO of the following describe how balanced mutual fund managers commonly adjust the portfolio in response to changing market conditions? (Choose TWO)
-    - A. Moving to 100% equities whenever the stock market rises, with no fixed-income holdings at all.
-    - B. Increasing the fixed-income allocation when interest rates appear to have peaked.
-    - C. Always maintaining an exact 50-50 split between debt and equity.
-    - D. Holding larger amounts of money market securities when both bond and stock markets are volatile.
+11. Which TWO of the following describe how balanced fund managers commonly adjust the portfolio? (Choose TWO)
+    - A. Moving to 100% equities whenever stocks rise.
+    - B. Increasing fixed income when rates appear to have peaked.
+    - C. Always holding an exact 50/50 split.
+    - D. Holding more money market securities when markets are volatile.
+    - E. Eliminating equities whenever inflation rises.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
+      Explanation: Balanced managers shift the mix with conditions: adding bonds when rates look like they've peaked (so bond prices should rise) and moving to cash when both stocks and bonds are volatile.
     </details>
 
-12. Since a balanced mutual fund is part bond fund and part equity fund, its returns would generally be expected to fall:
-    - A. Consistently above equity fund returns.
-    - B. Consistently below money market fund returns.
-    - C. Somewhere between bond fund returns and equity fund returns.
-    - D. Completely independent of both bond and equity fund performance.
+12. Since a balanced fund is part bond fund and part equity fund, its returns would generally be expected to fall:
+    - A. Above equity fund returns.
+    - B. Below money market fund returns.
+    - C. Between bond and equity fund returns.
+    - D. Independently of bond and equity returns.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: With its mix of assets, a balanced fund's returns (and risk) generally fall between those of bond funds and equity funds.
     </details>
 
 13. A target-date fund's "glide path" refers to:
-    - A. The gradual, automatic shift in the fund's asset allocation from more risky to more conservative as the target date approaches.
-    - B. A fixed asset allocation that never changes over the life of the fund.
+    - A. The gradual shift to a more conservative mix over time.
+    - B. A fixed asset mix that never changes.
     - C. The fund's daily trading volume.
-    - D. A guarantee of principal at any time before the maturity date.
+    - D. A guarantee of principal before the target date.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: As the target date gets closer, the fund automatically moves from riskier assets toward more conservative ones along a set glide path.
     </details>
 
-14. Target-date funds are structured on the assumption that, as investors grow older:
-    - A. Their risk tolerance and risk capacity generally increase.
-    - B. Their investment time horizon becomes longer.
-    - C. They should hold increasing amounts of equities over time.
-    - D. Their risk tolerance and risk capacity generally decline.
+14. Target-date funds are built on the assumption that, as investors grow older:
+    - A. Their risk tolerance rises.
+    - B. Their time horizon lengthens.
+    - C. Their equity exposure should grow.
+    - D. Their risk tolerance and capacity decline.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: The glide path assumes that as retirement approaches, investors are less willing and less able to take risk, so the fund becomes more conservative.
     </details>
 
-15. A mutual fund that can hold securities from any country, including Canada, is generally called a global fund, while a fund that invests everywhere EXCEPT Canada is often specifically called a(n):
+15. A fund that can hold securities from any country, including Canada, is a global fund. A fund that invests everywhere EXCEPT Canada is often called a(n):
     - A. Balanced fund.
     - B. International fund.
-    - C. Money market fund.
-    - D. Preferred dividend fund.
+    - C. Regional fund.
+    - D. Domestic fund.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: International funds exclude Canada, while global funds may include it. Regional funds focus on one area, such as Asia or Europe.
     </details>
 
-16. One reason investors are attracted to global mutual funds is that different countries are often at different stages of the economic cycle at any given time, meaning that:
-    - A. All global markets always move in perfect unison.
-    - B. Canadian equities always outperform every other country's market.
-    - C. Clients can benefit from stronger returns available in non-Canadian markets when the Canadian market is in a slump, gaining additional diversification.
-    - D. Currency risk is completely eliminated by investing globally.
+16. One reason investors are attracted to global funds is that different countries are often at different stages of the economic cycle, meaning:
+    - A. All markets move in unison.
+    - B. Canadian equities always outperform.
+    - C. Other markets may do well when Canada's is weak.
+    - D. Currency risk disappears when investing globally.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Because economies don't move in lockstep, foreign markets can offset weakness at home, which improves diversification. Global investing adds currency risk rather than removing it.
     </details>
 
-17. A global mutual fund exposes an investor to at least two types of risk not present, or less present, in a purely domestic fund: market risk of the countries invested in, and:
-    - A. Foreign exchange risk, since the Canadian dollar's value can rise or fall relative to other currencies.
-    - B. Interest rate risk exclusively.
-    - C. Credit rating risk exclusively.
-    - D. Inflation risk exclusively.
+17. Besides the market risk of the countries invested in, a global fund exposes investors to:
+    - A. Foreign exchange risk.
+    - B. Deposit insurance risk.
+    - C. Reinvestment risk only.
+    - D. Call risk only.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Changes in the Canadian dollar against other currencies affect the value of foreign holdings in Canadian-dollar terms, regardless of how the securities themselves perform.
     </details>
 
-18. A portfolio manager sells a foreign currency for future delivery at today's exchange rate, in order to fix the rate at which foreign proceeds will eventually be converted to Canadian dollars. This is an example of using a:
+18. A portfolio manager sells a foreign currency for future delivery at a rate fixed today, to lock in the rate at which foreign proceeds will be converted to Canadian dollars. This uses a:
     - A. Principal-protected note.
     - B. Fund wrap.
     - C. Segregated fund.
@@ -182,125 +200,138 @@ Original practice questions grounded in the CSI Investment Funds in Canada (IFC)
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: A currency forward locks in an exchange rate for a future date. Global fund managers commonly use them to hedge foreign exchange risk.
     </details>
 
 19. Unlike dividends from Canadian corporations, dividends earned by a global equity fund from foreign corporations are:
-    - A. Eligible for the full Canadian dividend tax credit.
-    - B. Generally taxed at the same rate as interest income, since they are not eligible for the dividend tax credit.
-    - C. Entirely tax-exempt in Canada.
-    - D. Only 50% taxable, like a capital gain.
+    - A. Eligible for the dividend tax credit.
+    - B. Taxed like interest income.
+    - C. Exempt from Canadian tax.
+    - D. Only 50% taxable.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Foreign dividends don't qualify for the dividend tax credit, so they are taxed at full marginal rates, like interest.
     </details>
 
-20. Compared to standard, broadly diversified equity funds, specialty mutual funds such as precious metals or natural resource funds typically carry an additional risk factor of:
-    - A. Complete exemption from market risk.
-    - B. Guaranteed government backing.
-    - C. A lack of diversification, since they concentrate investments in a narrow sector or industry.
-    - D. No exposure to commodity price movements.
+20. Compared with broadly diversified equity funds, specialty funds such as precious metals or natural resource funds carry the added risk of:
+    - A. Exemption from market risk.
+    - B. Government backing.
+    - C. A lack of diversification.
+    - D. No exposure to commodity prices.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Specialty funds concentrate on one sector, industry, or theme, so a downturn in that area hits the whole fund.
     </details>
 
-21. Which TWO of the following are true regarding a client considering a specialty mutual fund such as a natural resource fund? (Choose TWO)
-    - A. Adding a poorly diversified specialty fund to an existing, uncorrelated portfolio can still improve the overall portfolio's diversification.
-    - B. A specialty fund should generally be a client's only investment holding.
-    - C. No investment, including a specialty fund, should be evaluated in isolation from the client's existing portfolio.
-    - D. Specialty funds automatically eliminate all portfolio risk.
-    - E. Specialty funds can never be combined with other mutual funds.
+21. Which TWO statements are true of a client considering a specialty fund, such as a natural resource fund? (Choose TWO)
+    - A. It can still improve diversification if uncorrelated with existing holdings.
+    - B. It should generally be the client's only holding.
+    - C. It should be evaluated in the context of the client's whole portfolio.
+    - D. It eliminates the need for other funds.
+    - E. It can't be combined with other mutual funds.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, C
+      Explanation: A poorly diversified fund can still improve an overall portfolio if its returns don't move with the other holdings. That's why no investment should be judged in isolation.
     </details>
 
 22. Clients get the greatest diversification benefit from combining two funds that have:
-    - A. Perfect positive correlation with each other.
-    - B. Identical portfolios and identical risk factors.
-    - C. No relationship whatsoever to standard deviation.
-    - D. A low degree of correlation with each other.
+    - A. Perfect positive correlation.
+    - B. Identical portfolios.
+    - C. Identical standard deviations.
+    - D. Low correlation.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: The less two funds' returns move together, the more they smooth each other out. Perfectly positively correlated funds add almost no diversification.
     </details>
 
 23. A fund wrap program is best described as:
-    - A. A single mutual fund investing only in bonds.
-    - B. A series of portfolios containing multiple mutual funds, reflecting pre-selected asset allocation models for groups of similarly profiled investors.
-    - C. A type of segregated fund contract.
-    - D. A government savings bond program.
+    - A. A single fund that invests only in bonds.
+    - B. Model portfolios made up of several funds.
+    - C. An insurance contract with a death benefit.
+    - D. A government-sponsored savings program.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Fund wraps are pre-built portfolios of several mutual funds, based on asset allocation models for groups of investors with similar profiles.
     </details>
 
 24. In a portfolio allocation service (as opposed to a fund of funds), the investor:
-    - A. Actually owns units of the underlying constituent mutual funds directly, in the proportions set by the service.
-    - B. Owns units of a single fund that itself holds other funds.
+    - A. Owns units of each underlying fund directly.
+    - B. Owns units of a single fund that holds other funds.
     - C. Owns no securities at all.
-    - D. Owns units of a segregated fund contract exclusively.
+    - D. Owns a segregated fund contract.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: In a portfolio allocation service, the investor holds the underlying funds directly in the set proportions. In a fund of funds, the investor owns units of one fund that holds the others.
     </details>
 
-25. Regulations governing fund wraps specifically prohibit "double dipping," meaning:
-    - A. Investing in more than one fund at the same time.
-    - B. Redeeming units of more than one fund on the same day.
-    - C. Charging fees twice for the same services or components.
-    - D. Holding both equities and bonds in the same wrap program.
+25. Regulations governing fund wraps prohibit "double dipping," which means:
+    - A. Investing in more than one fund at once.
+    - B. Redeeming several funds on the same day.
+    - C. Charging fees twice for the same service.
+    - D. Holding stocks and bonds in one program.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: Because a wrap has several layers of funds, the rules stop investors from being charged twice for the same management or service.
     </details>
 
-26. Over the textbook's hypothetical 15-year period, comparing average annual returns, which of the following was generally observed?
-    - A. Global equity funds outperformed Canadian equity funds by a wide margin.
-    - B. Global equity funds and Canadian equity funds earned identical average returns every single year.
-    - C. Money market funds outperformed both Canadian and global equity funds.
-    - D. Canadian equity funds earned a higher average annual return than global equity funds over the period, though performance diverged significantly from year to year.
+26. Over the textbook's hypothetical 15-year period, which comparison of average annual returns was observed?
+    - A. Global equity funds outperformed by a wide margin.
+    - B. Both earned identical returns every year.
+    - C. Money market funds outperformed both.
+    - D. Canadian equity funds earned a higher average return.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Over that period, Canadian equity funds earned a higher average annual return than global equity funds, although the two diverged a lot from year to year.
     </details>
 
-27. A key risk factor associated with equity growth funds is that the smaller, growing firms they invest in:
-    - A. Are guaranteed to succeed due to their growth focus.
-    - B. Have a greater potential for business failure than larger, well-established firms, and often trade at high, volatile P/E ratios.
-    - C. Never experience share price volatility.
-    - D. Are prohibited from being held in a mutual fund.
+27. A key risk of equity growth funds is that the smaller, growing firms they invest in:
+    - A. Tend to have very stable earnings.
+    - B. Have higher failure risk and volatile valuations.
+    - C. Usually pay high, stable dividends.
+    - D. Are typically regulated utilities.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      Explanation: Smaller growth companies are more likely to fail than established firms, and their high P/E ratios can swing sharply when expectations change.
     </details>
 
-28. A precious metals fund's unit value is described as being sensitive to international monetary policy, political events, and speculation, primarily because:
-    - A. Precious metals prices can swing dramatically due to these broader global factors.
-    - B. The fund is fully diversified across every economic sector.
-    - C. Precious metals prices are set exclusively by the Bank of Canada.
-    - D. Gold and silver are classified as fixed-income securities.
+28. A precious metals fund's unit value is sensitive to international monetary policy, political events, and speculation, primarily because:
+    - A. Metals prices can swing sharply on global events.
+    - B. The fund is diversified across all sectors.
+    - C. Metals prices are set by the Bank of Canada.
+    - D. Gold and silver are fixed-income securities.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Explanation: Gold and other precious metals react strongly to global monetary, political, and speculative forces, which makes funds concentrated in them volatile.
     </details>
 
-29. The primary objective of a global equity fund is to earn capital gains over the long term, while the objective of an international bond fund is generally to earn:
-    - A. Only capital gains, with no interest income at all.
-    - B. Dividend income eligible for the full Canadian dividend tax credit.
-    - C. Interest income, with some capital gains potential, typically over a somewhat shorter horizon.
-    - D. Guaranteed principal protection with no income component.
+29. A global equity fund's primary objective is long-term capital gains. An international bond fund's objective is generally:
+    - A. Capital gains only, with no interest income.
+    - B. Dividends eligible for the tax credit.
+    - C. Interest income, with some capital gains potential.
+    - D. Guaranteed principal with no income.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Explanation: International bond funds aim mainly for interest income, with some potential for capital gains from rate and currency changes, usually over a shorter horizon than equity funds.
     </details>
 
-30. A client already holds an equity fund and a bond fund. Adding a natural resource specialty fund that is poorly correlated with both existing holdings could:
-    - A. Automatically eliminate all risk in the client's portfolio.
-    - B. Have no effect on the portfolio's overall diversification.
-    - C. Only be justified if the specialty fund becomes the client's sole holding.
-    - D. Provide additional diversification benefit to the overall portfolio, despite the specialty fund itself being poorly diversified.
+30. A client already holds an equity fund and a bond fund. Adding a natural resource fund that is poorly correlated with both could:
+    - A. Eliminate all risk in the portfolio.
+    - B. Have no effect on overall diversification.
+    - C. Only make sense as the client's sole holding.
+    - D. Improve the overall portfolio's diversification.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Explanation: Even though the specialty fund is poorly diversified on its own, its low correlation with the client's existing holdings can reduce overall portfolio risk.
     </details>
